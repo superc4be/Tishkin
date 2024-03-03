@@ -1,0 +1,39 @@
+\documentclass[12pt]{article}
+
+% Поддержка кириллицы
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+
+% Поддержка математики
+\usepackage{amsmath, amssymb, amsthm}
+
+% Создание среды для определений
+\newtheorem{definition}{Определение}
+
+% Создание среды для доказательств
+\newtheorem{theorem}{Теорема}
+
+% Начальный отступ
+\usepackage{indentfirst}
+
+% Важная информация в рамку
+\usepackage{mdframed}
+
+
+\begin{document}
+	
+	% Титульник
+	\title{Лекции по предмету\\"Вычислительная математика"}
+	\author{Тишкин Владимир Федорович}
+	\date{}
+	\maketitle
+	\newpage
+	
+	\tableofcontents
+		
+	\include{lec/lec2}
+	
+	
+	
+\end{document}
