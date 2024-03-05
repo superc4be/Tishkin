@@ -1,2 +1,12 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{Лекция №2}{3}{}%
+\contentsline {section}{Лекция №1}{3}{}%
+\contentsline {subsection}{Введение}{3}{}%
+\contentsline {subsection}{Разностная аппроксимация}{3}{}%
+\contentsline {subsubsection}{Сетки и сеточные функции}{3}{}%
+\contentsline {section}{Лекция №2}{7}{}%
+\contentsline {subsection}{Введение}{7}{}%
+\contentsline {subsection}{Основные понятия и определения}{7}{}%
+\contentsline {subsubsection}{Последовательность операторов и устойчивость}{9}{}%
+\contentsline {subsubsection}{Самосопряженные операторы}{9}{}%
+\contentsline {subsubsection}{Собственные значения и векторы}{9}{}%
+\contentsline {subsection}{Анализ устойчивости}{10}{}%

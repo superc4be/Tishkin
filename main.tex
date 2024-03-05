@@ -20,6 +20,20 @@
 % Важная информация в рамку
 \usepackage{mdframed}
 
+% Вставка картинок правильная
+\usepackage{graphicx}
+
+%"Плавающие" картинки
+\usepackage{float}
+
+%Обтекание фигур (таблиц, картинок и прочего)
+\usepackage{wrapfig}
+
+% подписи к рисунку
+\usepackage{caption}
+\renewcommand{\figurename}{Рис.}
+\renewcommand{\thefigure}{\arabic{figure}.}
+\captionsetup[figure]{labelsep=period}
 
 \begin{document}
 	
@@ -31,6 +45,8 @@
 	\newpage
 	
 	\tableofcontents
+	
+	\include{lec/lec1}
 		
 	\include{lec/lec2}
 	

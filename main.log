@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.27)  3 MAR 2024 19:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.27)  5 MAR 2024 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -526,48 +526,111 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@env@ii=\count282
 \c@mdf@zref@counter=\count283
 Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count284
+\float@exts=\toks30
+\float@box=\box58
+\@float@everytoks=\toks31
+\@floatcapt=\box59
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen151
+\WF@size=\dimen152
+\c@WF@wrappedlines=\count285
+\WF@box=\box60
+\WF@everypar=\toks32
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count286
+\c@continuedfloat=\count287
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
 ) (./main.aux
-(./lec/lec2.aux))
+(./lec/lec1.aux) (./lec/lec2.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Info: Redefining \th on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Info: Redefining \th on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
-\scratchdimen=\dimen149
-\scratchbox=\box58
-\nofMPsegments=\count285
-\nofMParguments=\count286
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count287
-\MPscratchDim=\dimen150
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
-\everyMPtoPDFconversion=\toks31
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+\scratchcounter=\count288
+\scratchdimen=\dimen160
+\scratchbox=\box61
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen161
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks34
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
 
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -579,48 +642,143 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `main.toc'.
 
  [2]
+\openout2 = `lec/lec1.aux'.
+
+ (./lec/lec1.tex
+Overfull \hbox (1.24751pt too wide) in paragraph at lines 21--22
+[]\T2A/cmr/m/n/12 Необходимо за-ме-нить диф-фе-рен-ци-аль-ный опе-ра-тор неко-т
+о-рым раз-
+ []
+
+[3
+
+]
+<img/1.png, id=18, 446.66875pt x 160.6pt>
+File: img/1.png Graphic file (type png)
+<use img/1.png>
+Package pdftex.def Info: img/1.png  used on input line 40.
+(pdftex.def)             Requested size: 195.0pt x 70.11282pt.
+
+Underfull \hbox (badness 1565) in paragraph at lines 46--49
+\T2A/cmr/m/n/12 чить гра-нич-ные - точ-ки $\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12
+ =
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 46--49
+\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ;  x[] \OT1/cmr/m/n/12 = 1$\T2A/cmr/m/n/12 . 
+Обо-зна-чим $[] \OT1/cmr/m/n/12 =
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 46--49
+\T2A/cmr/m/n/12 (рис. 1.[]) На от-рез-ке [0,1] вме-
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 46--49
+\OML/cmm/m/it/12 y[] []$\T2A/cmr/m/n/12 . Зна-че-ния этой функ-ции
+ []
+
+[4 <./img/1.png>]
+<img/2.png, id=30, 467.7475pt x 313.17pt>
+File: img/2.png Graphic file (type png)
+<use img/2.png>
+Package pdftex.def Info: img/2.png  used on input line 58.
+(pdftex.def)             Requested size: 195.0pt x 130.56044pt.
+
+Overfull \hbox (3.9782pt too wide) in paragraph at lines 78--79
+\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 i[]h[]; i[] \OT1/cmr/m/
+n/12 = 0\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^F\OT1/cmr/m/n/12 1\OML/cmm/m/it/1
+2 ; \OMS/cmsy/m/n/12 ^^F\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; [] ; h[] > \OT1/cmr
+/m/n/12 0; \OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 i[]h[]; i[] 
+\OT1/cmr/m/n/12 =$ $= 0\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^F\OT1/cmr/m/n/12 1
+\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^F\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; [] ;
+ h[] >
+ []
+
+<img/3.png, id=31, 532.99126pt x 429.605pt>
+File: img/3.png Graphic file (type png)
+<use img/3.png>
+Package pdftex.def Info: img/3.png  used on input line 82.
+(pdftex.def)             Requested size: 175.49881pt x 141.45543pt.
+[5 <./img/2.png>]
+Underfull \hbox (badness 2088) in paragraph at lines 87--88
+\T2A/cmr/m/n/12 до-му из на-прав-ле-ний $\OML/cmm/m/it/12 Ox[]$ \T2A/cmr/m/n/12
+ и $\OML/cmm/m/it/12 Ox[]$\T2A/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 87--88
+\OT1/cmr/m/n/12 ^^@$\T2A/cmr/m/n/12 , вклю-чая гра-ни-цу $\OT1/cmr/m/n/12 ^^@$\
+T2A/cmr/m/n/12 . Те уз-лы (
+ []
+
+) [6 <./img/3.png>]
 \openout2 = `lec/lec2.aux'.
 
  (./lec/lec2.tex
-Overfull \hbox (2.3841pt too wide) in paragraph at lines 7--8
+Overfull \hbox (2.39099pt too wide) in paragraph at lines 25--26
+[]\T2A/cmr/m/n/12 Обратимся те-перь к ис-ход-но-му диф-фе-рен-ци-аль-но-му урав
+-не-нию и най-
+ []
+
+[7
+
+
+
+]
+Overfull \hbox (0.10399pt too wide) in paragraph at lines 49--50
+\T2A/cmr/m/n/12 на-зы-ва-е-мые трех-слой-ные схе-мы, ис-поль-зу-ю-щие зна-че-ни
+я се-точ-ной функ-
+ []
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 51.
+
+Missing character: There is no г in font cmr8!
+[8] [9]
+Overfull \hbox (2.3841pt too wide) in paragraph at lines 104--105
 []\T2A/cmr/bx/n/12 Определение 1. []\T2A/cmr/m/it/12 Си-сте-ма на-зы-ва-ет-ся у
 стой-чи-вой, все раз-ност-ные схе-
  []
 
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 17.
+(mdframed)              on input line 114.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 26.
-[3
-
-] [4]) [5] (./main.aux (./lec/lec2.aux)) ) 
+(mdframed)              on input line 123.
+[10]) [11] [12] (./main.aux (./lec/lec1.aux) (./lec/lec2.aux)) ) 
 Here is how much of TeX's memory you used:
- 5978 strings out of 478287
- 95826 string characters out of 5849289
- 409879 words of memory out of 5000000
- 24067 multiletter control sequences out of 15000+600000
- 482233 words of font info for 64 fonts, out of 8000000 for 9000
+ 7778 strings out of 478287
+ 130232 string characters out of 5849289
+ 443603 words of memory out of 5000000
+ 25821 multiletter control sequences out of 15000+600000
+ 483051 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,9n,90p,1423b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-
-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/
-type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
-r/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr
-/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/t
-ype1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super
-/sfti1200.pfb>
-Output written on main.pdf (5 pages, 170736 bytes).
+ 82i,9n,90p,1577b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/tex
+mf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+
+Output written on main.pdf (12 pages, 306306 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 136 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
