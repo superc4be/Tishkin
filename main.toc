@@ -8,5 +8,5 @@
 \contentsline {subsection}{Основные понятия и определения}{7}{}%
 \contentsline {subsubsection}{Последовательность операторов и устойчивость}{9}{}%
 \contentsline {subsubsection}{Самосопряженные операторы}{9}{}%
-\contentsline {subsubsection}{Собственные значения и векторы}{9}{}%
+\contentsline {subsubsection}{Собственные значения и векторы}{10}{}%
 \contentsline {subsection}{Анализ устойчивости}{10}{}%
